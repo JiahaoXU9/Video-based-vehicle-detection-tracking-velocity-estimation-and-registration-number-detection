@@ -1,11 +1,13 @@
+Video based vehicle detection, tracking, velocity estimation and registration number detection
 Final Project for MAE6760:Model Based Estimation
 
-#Author Jiahao XU
+#Author# 
+Jiahao XU
 
-#Introduction
+#Introduction#
 This repository contains vedio based detecting and tracking for vehicles using Pytorch YOLOv5 and DeepSort Algorithms. It also achieves vehicle velocity estimation using pre-calibrated data and the registration number detection.
 
-#Requirements & Environments
+#Requirements & Environments#
 Python 3.9
 CUDA 10.2
 cuDNN
